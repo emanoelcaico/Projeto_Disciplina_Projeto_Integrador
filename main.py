@@ -5,3 +5,4 @@ print( 'servidor Ok, Agora eu Aprendi a sincronizar o tempo do servidor com o te
 print( 'servidor Ok, ----2050')
 print( 'servidor Ok, Agora eu Aprendi a sincronizar o tempo do servidor com o tempo do cliente')
 print( 'servidor Ok, mais um teste de sincronização 100')
+print( 'servidor Ok, só cabe nós')
