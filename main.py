@@ -7,3 +7,4 @@ print( 'servidor Ok, Agora eu Aprendi a sincronizar o tempo do servidor com o te
 print( 'servidor Ok, mais um teste de sincronização 100')
 print( 'servidor Ok, só cabe nós')
 print( 'servidor Ok, só cabe nós de novo')
+print( 'servidor Ok, só cabe nós de novo e de novo')
